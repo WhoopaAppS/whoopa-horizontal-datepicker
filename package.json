@@ -1,0 +1,52 @@
+{
+  "name": "whoopa-horizontal-datepicker",
+  "version": "1.0.0",
+  "description": "Whoopa horizontal datepicker",
+  "bundleDependencies": false,
+  "dependencies": {
+    "date-fns": "^2.8.1",
+    "react-waypoint": "^9.0.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "cross-env": "^7.0.2",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-config-standard-react": "^9.2.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.17.0",
+    "eslint-plugin-standard": "^4.0.1",
+    "gh-pages": "^2.2.0",
+    "microbundle-crl": "^0.13.10",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.0.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.1"
+  },
+  "peerDependencies": {
+    "react": "^16.0.0"
+  },
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhoopaAppS/whoopa-horizontal-datepicker.git"
+  },
+  "keywords": [
+    "Horizontal",
+    "datepicker"
+  ],
+  "author": "Whoopa App",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhoopaAppS/whoopa-horizontal-datepicker/issues"
+  },
+  "homepage": "https://github.com/WhoopaAppS/whoopa-horizontal-datepicker#readme"
+}
